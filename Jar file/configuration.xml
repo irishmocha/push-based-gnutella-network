@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<servents>
+  <servent id="1">
+    <ip>127.0.0.1</ip>
+    <port>13001</port>
+    <TTR>10</TTR>
+  </servent>
+  <servent id="2">
+    <ip>127.0.0.1</ip>
+    <port>13002</port>
+    <TTR>20</TTR>
+  </servent>
+  <servent id="3">
+    <ip>127.0.0.1</ip>
+    <port>13003</port>
+    <TTR>30</TTR>
+  </servent>
+  <servent id="4">
+    <ip>127.0.0.1</ip>
+    <port>13004</port>
+    <TTR>40</TTR>
+  </servent>
+  <servent id="5">
+    <ip>127.0.0.1</ip>
+    <port>13005</port>
+    <TTR>50</TTR>
+  </servent>
+  <servent id="6">
+    <ip>127.0.0.1</ip>
+    <port>13006</port>
+    <TTR>60</TTR>
+  </servent>
+  <servent id="7">
+    <ip>127.0.0.1</ip>
+    <port>13007</port>
+    <TTR>70</TTR>
+  </servent>
+  <servent id="8">
+    <ip>127.0.0.1</ip>
+    <port>13008</port>
+    <TTR>80</TTR>
+  </servent>
+  <servent id="9">
+    <ip>127.0.0.1</ip>
+    <port>13009</port>
+    <TTR>90</TTR>
+  </servent>
+  <servent id="10">
+    <ip>127.0.0.1</ip>
+    <port>13010</port>
+    <TTR>100</TTR>
+  </servent>
+</servents>

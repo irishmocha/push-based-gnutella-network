@@ -1,0 +1,13 @@
+** Please make sure the configuration is located with jar file or program in the same directory **
+** Please change the shared directory path in the ‘Gnutella.java’ **
+** the shared directory directory or folder must contain ‘Downloads’ folder for downloading files **
+
+1. Manual Compile
+a) go to the directory ‘../../servent’
+b) run this command ‘javac *.java
+c) go to ‘../../src/’
+d-1) run this command ‘java -classpath . servant.Gnutella 0’ for pull based network
+d-2) run this command ‘java -classpath . servant.Gnutella 1’ for pull based network
+
+
+- repeat c), d) to run multiple servants. 
